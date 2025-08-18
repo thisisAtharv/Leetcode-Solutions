@@ -37,4 +37,16 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
