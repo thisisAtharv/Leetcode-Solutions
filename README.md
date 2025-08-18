@@ -41,6 +41,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -51,5 +52,6 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
