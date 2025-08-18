@@ -8,6 +8,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | ------- |
 | [0027-remove-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
@@ -39,6 +40,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
