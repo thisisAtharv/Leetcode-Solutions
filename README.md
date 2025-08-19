@@ -7,6 +7,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -40,10 +41,12 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0342-power-of-four) |
