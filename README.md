@@ -11,12 +11,14 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0215-kth-largest-element-in-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Matrix
 |  |
