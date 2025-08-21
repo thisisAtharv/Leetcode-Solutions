@@ -7,6 +7,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Math
@@ -70,4 +72,16 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | ------- |
 | [0013-roman-to-integer](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
