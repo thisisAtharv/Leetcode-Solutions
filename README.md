@@ -6,6 +6,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -84,4 +86,8 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
