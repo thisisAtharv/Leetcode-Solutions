@@ -90,4 +90,8 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
