@@ -16,6 +16,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
