@@ -10,6 +10,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0027-remove-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0228-summary-ranges) |
@@ -102,4 +103,8 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
