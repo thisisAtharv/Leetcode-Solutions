@@ -55,6 +55,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0013-roman-to-integer](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
