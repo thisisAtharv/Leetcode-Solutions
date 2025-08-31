@@ -29,6 +29,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2427-first-letter-to-appear-twice](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Matrix
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | ------- |
 | [0231-power-of-two](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [2427-first-letter-to-appear-twice](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0290-word-pattern](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,4 +123,5 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
