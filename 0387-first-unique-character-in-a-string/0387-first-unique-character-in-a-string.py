@@ -1,14 +1,8 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        count = {}
-        index = {}
-        for i, x in enumerate(s):
-            if x in count:
-                count[x] += 1
-            else:
-                count[x] = 1
-                index[x] = i
-        for x in count:
-            if count[x] == 1:
-                return index[x]
+        from collections import Counter
+        count = Counter(s)
+        for i,x in enumerate(s):
+            if count[x]==1:
+                return i
         return -1
