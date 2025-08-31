@@ -8,7 +8,7 @@ class Solution:
             else:
                 count[x] = 1
                 index[x] = i
-        for x in s:
+        for x in count:
             if count[x] == 1:
                 return index[x]
         return -1
