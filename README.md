@@ -62,6 +62,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0189-rotate-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [2128-reverse-prefix-of-word](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0290-word-pattern](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2128-reverse-prefix-of-word](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
@@ -100,6 +102,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [2128-reverse-prefix-of-word](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
