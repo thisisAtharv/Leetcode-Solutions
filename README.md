@@ -16,6 +16,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0215-kth-largest-element-in-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1917-maximum-average-pass-ratio](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -43,6 +44,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0561-array-partition](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [1917-maximum-average-pass-ratio](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 ## Linked List
 |  |
@@ -130,4 +133,8 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
