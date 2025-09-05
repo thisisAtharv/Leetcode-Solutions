@@ -73,6 +73,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0231-power-of-two](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0290-word-pattern](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2128-reverse-prefix-of-word](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
@@ -137,4 +139,8 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0561-array-partition) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
