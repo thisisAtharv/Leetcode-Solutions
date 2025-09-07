@@ -1,25 +1,13 @@
 class Solution {
     public int[] sumZero(int n) {
-        ArrayList<Integer> arr = new ArrayList<>();
-        if(n%2!=0){
-            arr.add(0);
-            for(int i=1;i<n;i++){
-                arr.add(i);
-                arr.add(-i);
-                if(arr.size()==n){
-                    break;
-                } 
-            }
+        int[] arr=new int[n];
+        if (n==1) return arr;
+        int sum=0;
+        for (int i = 0; i < n - 1; i++) {
+            arr[i] = i + 1;
+            sum += arr[i];
         }
-        else{
-            for(int i=1;i<n;i++){
-                arr.add(i);
-                arr.add(-i);
-                if(arr.size()==n){
-                    break;
-                } 
-            }
-        }
-        return arr.stream().mapToInt(Integer::intValue).toArray();
+        arr[n - 1] = -sum;
+        return arr;
     }
 }
