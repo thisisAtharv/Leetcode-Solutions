@@ -19,6 +19,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0561-array-partition](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1917-maximum-average-pass-ratio](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -74,6 +75,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0326-power-of-three](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
