@@ -5,10 +5,6 @@ class Solution(object):
         :rtype: int
         """
         n=len(nums)
-        thatnum=0
-        for i in range(n):
+        for i in range(n+1):
             if i not in nums:
-                thatnum=i
-                return thatnum
-        if thatnum==0:
-            return n
+                return i
