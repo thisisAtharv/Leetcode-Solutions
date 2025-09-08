@@ -15,6 +15,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0189-rotate-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -27,6 +28,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -45,6 +47,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Heap (Priority Queue)
 |  |
@@ -72,6 +75,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0013-roman-to-integer](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
@@ -80,6 +84,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Recursion
@@ -128,6 +133,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Queue
 |  |
 | ------- |
