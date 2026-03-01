@@ -72,6 +72,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0231-power-of-two) |
