@@ -1,7 +1,7 @@
 class Solution {
     public int reverse(int x) {
         long rev = 0;
-        while (x != 0) {
+        while (Math.abs(x) > 0) {
             int lastDigit = x % 10;
             rev = rev * 10 + lastDigit;
             x = x / 10;
