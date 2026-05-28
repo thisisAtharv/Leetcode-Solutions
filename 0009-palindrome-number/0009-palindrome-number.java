@@ -3,10 +3,9 @@ class Solution {
         int originalNumber = x;
         long rev = 0;
         while (x > 0) {
-            int lastDigit = x % 10;
-            rev = rev * 10 + lastDigit;
+            rev = rev * 10 + (x%10);
             x = x / 10;
         }
-        return originalNumber==rev;
+        return originalNumber == rev;
     }
 }
