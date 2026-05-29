@@ -8,11 +8,11 @@ class Solution {
             min = Math.min(n,min);
         }
 
-        while (max != 0) {
-            int temp = max;
-            max = min % max;
-            min = temp;
+        while(min!=0){
+            int temp = min;
+            min = max%min;
+            max = temp;
         }
-        return min;
+        return max;
     }
 }
