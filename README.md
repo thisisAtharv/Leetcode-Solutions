@@ -66,6 +66,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0027-remove-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -103,6 +104,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0013-roman-to-integer](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
