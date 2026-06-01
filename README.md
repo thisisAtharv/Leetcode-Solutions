@@ -83,6 +83,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0326-power-of-three](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
@@ -98,6 +99,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0231-power-of-two](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -115,6 +117,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -161,4 +164,8 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
