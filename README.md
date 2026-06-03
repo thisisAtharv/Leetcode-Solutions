@@ -24,6 +24,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [1917-maximum-average-pass-ratio](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [1392-find-the-difference-of-two-arrays](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting Sort
 |  |
 | ------- |
