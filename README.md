@@ -21,6 +21,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -52,6 +53,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0215-kth-largest-element-in-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -134,6 +136,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | ------- |
 | [0011-container-with-most-water](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 ## Linked List
 |  |
@@ -145,6 +148,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Queue
 |  |
 | ------- |
@@ -171,4 +175,12 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
