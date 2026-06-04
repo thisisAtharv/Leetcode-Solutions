@@ -18,6 +18,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 | [0268-missing-number](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -47,17 +48,20 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 ## Quickselect
 |  |
@@ -163,6 +167,7 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -183,4 +188,16 @@ Leetcode and geeksforgeeks practiced questions - LeetHub v2
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thisisAtharv/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
